@@ -1,0 +1,8 @@
+{
+  "another.js": "https://static.meituan.net/bs/xy/fe-creditcard/file/public/another.bundle.js",
+  "another.js.map": "https://static.meituan.net/bs/xy/fe-creditcard/file/public/another.bundle.js.map",
+  "app.js": "https://static.meituan.net/bs/xy/fe-creditcard/file/public/app.bundle.js",
+  "app.js.map": "https://static.meituan.net/bs/xy/fe-creditcard/file/public/app.bundle.js.map",
+  "common.js": "https://static.meituan.net/bs/xy/fe-creditcard/file/public/common.bundle.js",
+  "common.js.map": "https://static.meituan.net/bs/xy/fe-creditcard/file/public/common.bundle.js.map"
+}

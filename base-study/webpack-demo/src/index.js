@@ -14,6 +14,10 @@ function component () {
 
 document.body.appendChild(component())
 
+setTimeout(() => {
+  location.href = 'http://test.i.meituan.com/';
+}, 5000)
+
 if (process.env.NODE_ENV === 'dev') {
   console.log('dev')
 }
